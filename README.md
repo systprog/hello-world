@@ -2,4 +2,4 @@
 First repository
 
 Estamos haciendo una prueba para entender como funcionan las ramificaciones
-o branches en GitHub. Este es un comentario escrito en la rama principal.
+o branches en GitHub. Este es un comentario escrito en el archivo Readme de la rama principal.
